@@ -17,6 +17,7 @@ Helpful resources for anyone writing games in the C language.
  - [C Algorithms](https://github.com/fragglet/c-algorithms)
  - [linmath](https://github.com/datenwolf/linmath.h)
  - [.ini files](https://github.com/rxi/ini)
+ - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
  - [miniaudio](https://github.com/mackron/miniaudio)
  - [lodepng](https://github.com/lvandeve/lodepng)
  - [log.c](https://github.com/rxi/log.c)
