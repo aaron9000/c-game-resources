@@ -1,4 +1,4 @@
-# C Game Resources
+# ⚡ C Game Resources
 
 Helpful resources for anyone writing games in the C language.
 
