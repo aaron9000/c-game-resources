@@ -4,7 +4,7 @@ Helpful resources for anyone writing games in the C language.
 
 #### 💻 Dev Environment
  - [GLFW](https://github.com/glfw/glfw)
- - [MinGW Runtime environment](https://www.mingw-w64.org/)
+ - [MinGW runtime environment](https://www.mingw-w64.org/)
  - [Robby Kraft's C starter project](https://github.com/robbykraft/World)
 
 #### 📖 Reference
