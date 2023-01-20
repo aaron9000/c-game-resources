@@ -1,6 +1,6 @@
 # ⚡ C Game Resources
 
-Helpful resources for anyone writing games in the C language.
+A collection of helpful resources for writing games in C and OpenGL.
 
 #### 💻 Dev Environment
  - [GLFW](https://github.com/glfw/glfw)
