@@ -6,6 +6,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [GLFW](https://github.com/glfw/glfw)
  - [MinGW runtime environment](https://www.mingw-w64.org/)
  - [C starter project](https://github.com/robbykraft/World)
+ - [Visual Studio Code](https://code.visualstudio.com/)
 
 #### 📖 Reference
  - [Awesome C](https://github.com/oz123/awesome-c)
@@ -16,6 +17,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Distance Functions](https://iquilezles.org/articles/distfunctions/)
  - [Noise-based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
  - [The Book of Shaders](https://thebookofshaders.com/)
+ - [Inigo Quilez articles](https://iquilezles.org/articles/)
 
 #### 🔨 Libs
  - [SDS string library](https://github.com/antirez/sds)
@@ -27,6 +29,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [lodepng](https://github.com/lvandeve/lodepng)
  - [log.c](https://github.com/rxi/log.c)
  - [stb single file libs](https://github.com/nothings/stb)
+ - [GLEW](https://github.com/nigels-com/glew)
 
 ***
 
