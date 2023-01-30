@@ -33,4 +33,4 @@ A collection of helpful resources for writing games in C and OpenGL.
 
 ***
 
-The resources above were invaluable for the development of [Impaler](https://store.steampowered.com/app/1573090/Impaler/). I owe the success of the project to the talented open source developers who made their work available to the world.
+The resources above were invaluable for creating [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open source developers who made their work available.
