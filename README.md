@@ -30,6 +30,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [log.c](https://github.com/rxi/log.c)
  - [stb single file libs](https://github.com/nothings/stb)
  - [GLEW](https://github.com/nigels-com/glew)
+ - [heman heightmap utils](https://github.com/prideout/heman)
 
 ***
 
