@@ -16,6 +16,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Distance Functions](https://iquilezles.org/articles/distfunctions/)
  - [Noise-based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
  - [The Book of Shaders](https://thebookofshaders.com/)
+ - [Inigo Quilez Articles](https://iquilezles.org/articles/)
 
 #### 🔨 Libs
  - [SDS string library](https://github.com/antirez/sds)
@@ -27,6 +28,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [lodepng](https://github.com/lvandeve/lodepng)
  - [log.c](https://github.com/rxi/log.c)
  - [stb single file libs](https://github.com/nothings/stb)
+ - [minunit](https://github.com/siu/minunit)
 
 ***
 
