@@ -6,6 +6,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [GLFW](https://github.com/glfw/glfw)
  - [MinGW runtime environment](https://www.mingw-w64.org/)
  - [C starter project](https://github.com/robbykraft/World)
+ - [Visual Studio Code](https://code.visualstudio.com/)
 
 #### 📖 Reference
  - [Awesome C](https://github.com/oz123/awesome-c)
@@ -29,7 +30,10 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [log.c](https://github.com/rxi/log.c)
  - [stb single file libs](https://github.com/nothings/stb)
  - [minunit](https://github.com/siu/minunit)
+ - [GLEW](https://github.com/nigels-com/glew)
+ - [heman heightmap utils](https://github.com/prideout/heman)
+
 
 ***
 
-The resources above were invaluable for the development of [Impaler](https://store.steampowered.com/app/1573090/Impaler/). I owe the success of the project to the talented open source developers who made their work available to the world.
+The resources above were invaluable for creating [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open source developers who made their work available.
