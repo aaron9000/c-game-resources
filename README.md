@@ -5,7 +5,7 @@ A collection of helpful resources for writing games in C and OpenGL.
 #### 💻 Dev Environment
  - [GLFW](https://github.com/glfw/glfw)
  - [MinGW runtime environment](https://www.mingw-w64.org/)
- - [C starter project](https://github.com/robbykraft/World)
+ - [C + OpenGL starter project](https://github.com/robbykraft/World)
  - [Visual Studio Code](https://code.visualstudio.com/)
 
 #### 📖 Reference
@@ -18,6 +18,8 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Noise-based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
  - [The Book of Shaders](https://thebookofshaders.com/)
  - [Inigo Quilez Articles](https://iquilezles.org/articles/)
+ - [Red Blob Games](https://www.redblobgames.com/)
+ - [Books for Game Developers](https://mrelusive.com/books/books.html)
 
 #### 🔨 Libs
  - [SDS string library](https://github.com/antirez/sds)
@@ -32,7 +34,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [minunit](https://github.com/siu/minunit)
  - [GLEW](https://github.com/nigels-com/glew)
  - [heman heightmap utils](https://github.com/prideout/heman)
-
+ - [raylib](https://github.com/raysan5/raylib)
 
 ***
 
