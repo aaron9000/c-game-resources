@@ -40,6 +40,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Heightmap to Normal Map](https://cpetry.github.io/NormalMap-Online/)
  - [Panorama to Cubemap](https://jaxry.github.io/panorama-to-cubemap/)
  - [Perlin Noise Generator](http://kitfox.com/projects/perlinNoiseMaker/)
+ - [Shadertoy](https://www.shadertoy.com/)
 
 ***
 
