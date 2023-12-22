@@ -21,7 +21,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Red Blob Games](https://www.redblobgames.com/)
  - [Books for Game Developers](https://mrelusive.com/books/books.html)
 
-#### 🔨 Libs
+#### 📦 Libs
  - [SDS string library](https://github.com/antirez/sds)
  - [c-algorithms](https://github.com/fragglet/c-algorithms)
  - [linmath](https://github.com/datenwolf/linmath.h)
@@ -36,6 +36,11 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [heman heightmap utils](https://github.com/prideout/heman)
  - [raylib](https://github.com/raysan5/raylib)
 
+#### 🔨 Web Tools
+ - [Heightmap to Normal Map](https://cpetry.github.io/NormalMap-Online/)
+ - [Panorama to Cubemap](https://jaxry.github.io/panorama-to-cubemap/)
+ - [Perlin Noise Generator](http://kitfox.com/projects/perlinNoiseMaker/)
+
 ***
 
-The resources above were invaluable for creating [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open source developers who made their work available.
+The resources above were a valuable reference for developing [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open-source developers who make their work available.
