@@ -42,6 +42,9 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Perlin Noise Generator](http://kitfox.com/projects/perlinNoiseMaker/)
  - [Shadertoy](https://www.shadertoy.com/)
 
+#### 🎨 Assets
+- [Game-Icons.net](https://game-icons.net/)
+
 ***
 
 The resources above were a valuable reference for developing [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open-source developers who make their work available.
