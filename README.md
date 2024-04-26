@@ -45,6 +45,7 @@ A collection of helpful resources for writing games in C and OpenGL.
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
 - [ShareTextures.com](https://www.sharetextures.com/)
+- [PolyHaven](https://polyhaven.com/)
 ***
 
 The resources above were a valuable reference for developing [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open-source developers who make their work available.
