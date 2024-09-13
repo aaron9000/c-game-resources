@@ -24,7 +24,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Red Blob Games](https://www.redblobgames.com/)
  - [Ben Golus](https://bgolus.medium.com/)
  - [Philip Rideout](https://prideout.net/)
- - [Aaron Geisler](https://aarongeisler.com/)
+ - [Aaron Geisler](https://aarongeisler.com/pages/blog/)
  
 #### 📦 Libs
  - [Strings (sds)](https://github.com/antirez/sds)
