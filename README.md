@@ -34,7 +34,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Immediate mode UI (Nuklear)](https://github.com/Immediate-Mode-UI/Nuklear)
  - [2D UI layout library (Clay)](https://github.com/nicbarker/clay)
  - [Audio (miniaudio)](https://github.com/mackron/miniaudio)
- - [PNG loader (lodepng)](https://github.com/lvandeve/lodepng)
+ - [.png loader (lodepng)](https://github.com/lvandeve/lodepng)
  - [Logging (log.c)](https://github.com/rxi/log.c)
  - [Image writing (stb_image_write)](https://github.com/nothings/stb/blob/master/stb_image_write.h)
  - [Noise functions (stb_perlin)](https://github.com/nothings/stb/blob/master/stb_perlin.h)
@@ -42,6 +42,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [GL extension wrangler (GLEW)](https://github.com/nigels-com/glew)
  - [Heightmap utilities (heman)](https://github.com/prideout/heman)
  - [C game engine (raylib)](https://github.com/raysan5/raylib)
+ - [.obj loader (tinyobjloader-c)](https://github.com/syoyo/tinyobjloader-c)
 
 #### 🔨 Web Tools
  - [Heightmap to Normal Map](https://cpetry.github.io/NormalMap-Online/)
