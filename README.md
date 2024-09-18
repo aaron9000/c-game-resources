@@ -40,15 +40,16 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Noise functions (stb_perlin)](https://github.com/nothings/stb/blob/master/stb_perlin.h)
  - [Unit testing (minunit)](https://github.com/siu/minunit)
  - [GL extension wrangler (GLEW)](https://github.com/nigels-com/glew)
- - [Heightmap utilities (heman)](https://github.com/prideout/heman)
+ - [Height map utilities (heman)](https://github.com/prideout/heman)
  - [C game engine (raylib)](https://github.com/raysan5/raylib)
  - [.obj loader (tinyobjloader-c)](https://github.com/syoyo/tinyobjloader-c)
 
 #### 🔨 Web Tools
- - [Heightmap to Normal Map](https://cpetry.github.io/NormalMap-Online/)
- - [Panorama to Cubemap](https://jaxry.github.io/panorama-to-cubemap/)
- - [Perlin Noise Generator](http://kitfox.com/projects/perlinNoiseMaker/)
+ - [Height map to normal map](https://cpetry.github.io/NormalMap-Online/)
+ - [Panorama to cube map](https://jaxry.github.io/panorama-to-cubemap/)
+ - [Perlin noise generator](http://kitfox.com/projects/perlinNoiseMaker/)
  - [Shadertoy](https://www.shadertoy.com/)
+ - [Height maps of planet earth](https://tangrams.github.io/heightmapper/)
 
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
