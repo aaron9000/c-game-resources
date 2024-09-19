@@ -11,6 +11,7 @@ A collection of helpful resources for writing games in C and OpenGL.
 #### 📖 Reference
  - [Awesome C](https://github.com/oz123/awesome-c)
  - [Awesome GLSL](https://github.com/vanrez-nez/awesome-glsl)
+ - [Awesome OpenGL](https://github.com/eug/awesome-opengl)
  - [Learn OpenGL](https://learnopengl.com/)
  - [Quake 3 source code](https://github.com/id-Software/Quake-III-Arena)
  - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
