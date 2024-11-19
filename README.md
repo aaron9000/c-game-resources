@@ -27,6 +27,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Philip Rideout](https://prideout.net/)
  - [Aaron Geisler](https://aarongeisler.com/pages/blog/)
  - [Pekka Väänänen](https://30fps.net/)
+ - [Sean Barrett](https://nothings.org/)
  
 #### 📦 Libs
  - [Strings (sds)](https://github.com/antirez/sds)
