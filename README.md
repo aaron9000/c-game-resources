@@ -19,6 +19,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Noise-based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
  - [The Book of Shaders](https://thebookofshaders.com/)
  - [Books for Game Developers](https://mrelusive.com/books/books.html)
+ - [Intersection Routines](https://www.realtimerendering.com/intersections.html)
 
 #### ✍️ Blogs & Articles
  - [Inigo Quilez](https://iquilezles.org/articles/)
