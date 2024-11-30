@@ -21,6 +21,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Books for Game Developers](https://mrelusive.com/books/books.html)
  - [Intersection Routines](https://www.realtimerendering.com/intersections.html)
  - [GPU Gems](https://developer.nvidia.com/gpugems)
+ - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/index.html)
 
 #### ✍️ Blogs & Articles
  - [Inigo Quilez](https://iquilezles.org/articles/)
