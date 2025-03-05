@@ -56,6 +56,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Perlin noise generator](http://kitfox.com/projects/perlinNoiseMaker/)
  - [Shadertoy](https://www.shadertoy.com/)
  - [Height maps of planet earth](https://tangrams.github.io/heightmapper/)
+ - [Rotation Calculator](https://www.andre-gaschler.com/rotationconverter/)
 
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
