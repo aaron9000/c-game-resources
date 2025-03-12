@@ -9,6 +9,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [C + OpenGL starter project](https://github.com/mayakraft/World)
 
 #### 📖 Reference
+ - [The C programming language](https://www.c-language.org/)
  - [Awesome C](https://github.com/oz123/awesome-c)
  - [Awesome GLSL](https://github.com/vanrez-nez/awesome-glsl)
  - [Awesome OpenGL](https://github.com/eug/awesome-opengl)
@@ -64,4 +65,4 @@ A collection of helpful resources for writing games in C and OpenGL.
 - [PolyHaven](https://polyhaven.com/)
 ***
 
-The resources above were a valuable reference for developing [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open-source developers who make their work available.
+These resources were a valuable reference while developing my game [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the people who make their code and wisdom available to others.
