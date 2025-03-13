@@ -6,7 +6,8 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [GLFW](https://github.com/glfw/glfw)
  - [MinGW runtime environment](https://www.mingw-w64.org/)
  - [Visual Studio Code](https://code.visualstudio.com/)
- - [C + OpenGL starter project](https://github.com/mayakraft/World)
+ - [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
+ - [C / OpenGL starter project](https://github.com/mayakraft/World)
 
 #### 📖 Reference
  - [The C programming language](https://www.c-language.org/)
