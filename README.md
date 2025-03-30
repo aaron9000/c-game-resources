@@ -6,11 +6,14 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [GLFW](https://github.com/glfw/glfw)
  - [MinGW runtime environment](https://www.mingw-w64.org/)
  - [Visual Studio Code](https://code.visualstudio.com/)
- - [C + OpenGL starter project](https://github.com/mayakraft/World)
+ - [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
+ - [C / OpenGL starter project](https://github.com/mayakraft/World)
 
 #### 📖 Reference
+ - [The C programming language](https://www.c-language.org/)
  - [Awesome C](https://github.com/oz123/awesome-c)
  - [Awesome GLSL](https://github.com/vanrez-nez/awesome-glsl)
+ - [Awesome OpenGL](https://github.com/eug/awesome-opengl)
  - [Learn OpenGL](https://learnopengl.com/)
  - [Quake 3 source code](https://github.com/id-Software/Quake-III-Arena)
  - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
@@ -19,6 +22,9 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [The Book of Shaders](https://thebookofshaders.com/)
  - [Books for Game Developers](https://mrelusive.com/books/books.html)
  - [GM Shaders](https://mini.gmshaders.com/)
+ - [Intersection Routines](https://www.realtimerendering.com/intersections.html)
+ - [GPU Gems](https://developer.nvidia.com/gpugems)
+ - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/index.html)
 
 #### ✍️ Blogs & Articles
  - [Inigo Quilez](https://iquilezles.org/articles/)
@@ -27,6 +33,8 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Philip Rideout](https://prideout.net/)
  - [Aaron Geisler](https://aarongeisler.com/pages/blog/)
  - [Simon Schreibt](https://simonschreibt.de/game-art-tricks/)
+ - [Pekka Väänänen](https://30fps.net/)
+ - [Sean Barrett](https://nothings.org/)
  
 #### 📦 Libs
  - [Strings (sds)](https://github.com/antirez/sds)
@@ -52,6 +60,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Perlin noise generator](http://kitfox.com/projects/perlinNoiseMaker/)
  - [Shadertoy](https://www.shadertoy.com/)
  - [Height maps of planet earth](https://tangrams.github.io/heightmapper/)
+ - [3D rotation converter](https://www.andre-gaschler.com/rotationconverter/)
 
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
@@ -59,4 +68,4 @@ A collection of helpful resources for writing games in C and OpenGL.
 - [PolyHaven](https://polyhaven.com/)
 ***
 
-The resources above were a valuable reference for developing [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the open-source developers who make their work available.
+These resources were a valuable reference while developing my game [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the people who make their code and wisdom available to others.
