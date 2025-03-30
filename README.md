@@ -18,6 +18,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Noise-based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU)
  - [The Book of Shaders](https://thebookofshaders.com/)
  - [Books for Game Developers](https://mrelusive.com/books/books.html)
+ - [GM Shaders](https://mini.gmshaders.com/)
 
 #### ✍️ Blogs & Articles
  - [Inigo Quilez](https://iquilezles.org/articles/)
@@ -25,6 +26,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Ben Golus](https://bgolus.medium.com/)
  - [Philip Rideout](https://prideout.net/)
  - [Aaron Geisler](https://aarongeisler.com/pages/blog/)
+ - [Simon Schreibt](https://simonschreibt.de/game-art-tricks/)
  
 #### 📦 Libs
  - [Strings (sds)](https://github.com/antirez/sds)
