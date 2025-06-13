@@ -55,6 +55,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Height map utilities (heman)](https://github.com/prideout/heman)
  - [C game engine (raylib)](https://github.com/raysan5/raylib)
  - [.obj loader (tinyobjloader-c)](https://github.com/syoyo/tinyobjloader-c)
+ - [Highly optimized math library (cglm)](https://github.com/recp/cglm)
 
 #### 🔨 Web Tools
  - [Height map to normal map](https://cpetry.github.io/NormalMap-Online/)
