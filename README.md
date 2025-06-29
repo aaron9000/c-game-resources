@@ -70,6 +70,7 @@ A collection of helpful resources for writing games in C and OpenGL.
 - [ShareTextures.com](https://www.sharetextures.com/)
 - [PolyHaven](https://polyhaven.com/)
 - [Cubemaps](https://www.humus.name/index.php?page=Textures)
+- [ambientCG](https://ambientcg.com/)
 ***
 
 These resources were a valuable reference while developing my game [Impaler](https://store.steampowered.com/app/1573090/Impaler/). A sincere thank you to the people who make their code and wisdom available to others.
