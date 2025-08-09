@@ -27,6 +27,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/index.html)
  - [C Code Style Samples](https://github.com/aaron9000/c-code-style-samples)
  - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+ - [Blue Noise](https://momentsingraphics.de/BlueNoise.html)
 
 #### ✍️ Blogs & Articles
  - [Inigo Quilez](https://iquilezles.org/articles/)
