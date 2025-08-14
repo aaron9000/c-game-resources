@@ -58,13 +58,14 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [.obj loader (tinyobjloader-c)](https://github.com/syoyo/tinyobjloader-c)
  - [Highly optimized math library (cglm)](https://github.com/recp/cglm)
 
-#### 🔨 Web Tools
+#### 🔨 Tools
  - [Height map to normal map](https://cpetry.github.io/NormalMap-Online/)
  - [Panorama to cube map](https://jaxry.github.io/panorama-to-cubemap/)
  - [Perlin noise generator](http://kitfox.com/projects/perlinNoiseMaker/)
  - [Shadertoy](https://www.shadertoy.com/)
  - [Height maps of planet earth](https://tangrams.github.io/heightmapper/)
  - [3D rotation converter](https://www.andre-gaschler.com/rotationconverter/)
+ - [RenderDoc](https://renderdoc.org/)
 
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
