@@ -66,6 +66,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Height maps of planet earth](https://tangrams.github.io/heightmapper/)
  - [3D rotation converter](https://www.andre-gaschler.com/rotationconverter/)
  - [RenderDoc](https://renderdoc.org/)
+ - [BlockBench](https://www.blockbench.net/)
 
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
