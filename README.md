@@ -67,6 +67,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [3D rotation converter](https://www.andre-gaschler.com/rotationconverter/)
  - [RenderDoc](https://renderdoc.org/)
  - [BlockBench](https://www.blockbench.net/)
+ - [Texture tiler](https://www.imgonline.com.ua/eng/make-seamless-texture.php)
 
 #### 🎨 Assets
 - [Game-Icons.net](https://game-icons.net/)
