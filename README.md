@@ -38,6 +38,7 @@ A collection of helpful resources for writing games in C and OpenGL.
  - [Simon Schreibt](https://simonschreibt.de/game-art-tricks/)
  - [Pekka Väänänen](https://30fps.net/)
  - [Sean Barrett](https://nothings.org/)
+ - [Frost Kiwi](https://blog.frost.kiwi/)
  
 #### 📦 Libs
  - [Strings (sds)](https://github.com/antirez/sds)
